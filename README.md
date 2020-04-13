@@ -15,7 +15,7 @@ OpenGL library
 C++
 ```
 
-## :wrench: Setup: 
+## :wrench: Installation required: 
 
 `$ OpenMP library - sudo apt-get install libomp-dev`
 
