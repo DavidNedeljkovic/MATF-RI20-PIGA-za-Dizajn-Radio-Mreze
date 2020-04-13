@@ -2,14 +2,7 @@
 
 # :tophat: Project Title
 
-Ovaj rad je baziran na realnom problemu kombinatorne optimizacije,
-kao primer koji pokazuje kako genetski algoritam (GA) može biti pa-
-ralelizovan na efikasan način. Problem koji ćemo razmatrati ima za cilj
-odredivanje najboljeg skupa lokacija radio predajnika kako bi se pokrio što
-veći prostor po optimalnoj ceni. Dati problem ćemo prvo testirati na Stan-
-dardnom Genetskom Algoritmu (SGA), a potom na Ostrvskom modelu
-Genetskog Algoritma (IGA) koji ćemo paralelizovati na višejezgarnom
-procesoru.
+Ovaj rad je baziran na realnom problemu kombinatorne optimizacije, kao primer koji pokazuje kako genetski algoritam (GA) može biti paralelizovan na efikasan način. Problem koji ćemo razmatrati ima za cilj odredivanje najboljeg skupa lokacija radio predajnika kako bi se pokrio što veći prostor po optimalnoj ceni. Dati problem ćemo prvo testirati na Standardnom Genetskom Algoritmu (SGA), a potom na Ostrvskom modelu Genetskog Algoritma (IGA) koji ćemo paralelizovati na višejezgarnom procesoru.
 
 ## :floppy_disk: Prerequisites:
 ```
