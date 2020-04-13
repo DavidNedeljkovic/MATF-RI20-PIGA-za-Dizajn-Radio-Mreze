@@ -1,4 +1,4 @@
-# MATF_RI20_PIGA_za_Dizajn_Radio_Mreze
+# MATF_RI20_Paralelni_Ostrvski_Genetski_Algoritam_za_Dizajn_Radio_Mreze
 
 # :tophat: Project Title
 
