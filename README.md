@@ -1,4 +1,4 @@
-# MATF-RI20-PIGA-za-Dizajn-Radio-Mreze
+# MATF_RI20_PIGA_za_Dizajn_Radio_Mreze
 
 # :tophat: Project Title
 
